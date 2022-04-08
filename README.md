@@ -72,8 +72,8 @@ about - to know about me
 ## Status
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/harshil8981/TG-CONVERT-HPBOT/tree/main)
 ![Forks](https://img.shields.io/github/forks/harshil8981/TG-CONVERT-HPBOT)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=TG-CONVERT-HPBOT&theme=blue-green)
-[![Anonymous's github stats](https://github-readme-stats.vercel.app/api?username=TG-CONVERT-HPBOT&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=harshil8981&theme=blue-green)
+[![Mr Killer's github stats](https://github-readme-stats.vercel.app/api?username=harshil8981&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Thanks and credits
