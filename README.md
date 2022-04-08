@@ -78,6 +78,6 @@ about - to know about me
 
 ## Thanks and credits
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-- [Mahesh Malekar](https://telegram.dog/MaheshMalekar) for fixing some bugs
+- [MR Killer](https://telegram.dog/Mrkiller_1109) for fixing some bugs
 - [Dan](https://telegram.dog/haskell) for his pyrogram docs
 
