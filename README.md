@@ -51,15 +51,15 @@ about - to know about me
 ```
 ### start
 <p align="center">
-<img src="https://telegra.ph/file/3cb7e3725cd991373dd9b.jpg" alt="START">
+<img src="https://telegra.ph/file/6317cb2c4f4e93b6efb99.jpg" alt="START">
 
 ### help
 <p align="center">
-<img src="https://telegra.ph/file/0ba25cedf094225ad7175.jpg" alt="HELP">
+<img src="https://telegra.ph/file/d9be850e304c7c8397c80.jpg" alt="HELP">
 
 ### about
 <p align="center">
-<img src="https://telegra.ph/file/f6ad0e22825afe65ddcd2.jpg" alt="ABOUT">
+<img src="https://telegra.ph/file/cbc43fa06b5b9258267cb.jpg" alt="ABOUT">
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 #
