@@ -14,7 +14,7 @@ This repo is the clone of [Hp_converterbot](https://telegram.dog/Hp_converterbot
 
 
 ## How to create your own bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harshil8981/TG-CONVERT-HPBOT/tree/beta)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harshil8981/TG-CONVERT-HPBOT/tree)
 - 👆 Press the deploy button.
 
 - Give a name to your app.
